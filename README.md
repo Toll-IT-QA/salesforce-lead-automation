@@ -10,7 +10,7 @@ Fully automated Playwright script for creating Salesforce leads with realistic r
   - Generates valid North American Numbering Plan phone numbers
   - Validates during save (when Salesforce actually validates)
   - **Automatic retry with new phone numbers** if validation fails after save
-  - Intelligently regenerates and refills phone field up to 5 times
+  - Intelligently regenerates and refills phone field up to 15 times
   - Scrolls intelligently to adjust phone field and retry save
 - **Prospect Communities**: Randomly selects from available communities (Cinnamon Ridge, Quilici - Palovista Collection)
 - **Smart Form Automation**:
@@ -179,7 +179,7 @@ The script implements intelligent phone validation with automatic retry:
      - Fill with the new phone number
      - Scroll back down
      - Click save again
-5. **Retry up to 5 times** - If phone keeps failing, skip the lead after 5 attempts
+5. **Retry up to 15 times** - If phone keeps failing, skip the lead after 15 attempts
 
 ### Why This Approach?
 
