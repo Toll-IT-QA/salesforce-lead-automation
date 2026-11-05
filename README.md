@@ -203,7 +203,7 @@ Each lead includes:
 | Last Name | Global name pool | Chakra |
 | Personal Email | `firstname_lastname@testy.com` | yuki_chakra@testy.com |
 | Mobile Phone | NANP format, validated | (538) 701-3051 |
-| Consumer Segment | Random from available | Segment A |
+| Consumer Segment | Random from available | Young Families |
 | Prospect Communities | Randomly selected | Cinnamon Ridge OR Quilici - Palovista Collection |
 | Interaction Type | Always selected | Walk-in |
 | Working with Agent? | Always selected | No |
