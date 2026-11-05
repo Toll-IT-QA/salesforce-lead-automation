@@ -346,7 +346,7 @@ Each time a lead is created, the script randomly selects one community from this
 
 - **Lead creation time**: ~30-45 seconds per lead (without retries)
 - **With phone retry**: +15-20 seconds per retry attempt
-- **Phone validation**: Automatic retry up to 5 times
+- **Phone validation**: Automatic retry up to 15 times
 - **Duplicate checking**: ~2-3 seconds per name attempt
 - **Sequential processing**: One lead at a time
 
