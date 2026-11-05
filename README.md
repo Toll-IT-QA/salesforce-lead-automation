@@ -69,9 +69,10 @@ google-chrome --remote-debugging-port=9222 --user-data-dir=/tmp/chrome-debug
 ### Step 2: Log In to Salesforce
 
 1. Chrome will open to the home page
-2. Navigate to the sandbox URL: `https://tollbros--cvpy.sandbox.lightning.force.com`
-3. Log in with your Toll Brothers sandbox credentials
-4. **Keep the browser open** while the script runs
+2. Use this link for the SSO: `https://oktaportal.tollbrothersinc.com/enduser/app-settings/auc1cvrr8abKnErqx2p8`
+3. Navigate to the sandbox URL: `https://tollbros--cvpy.sandbox.lightning.force.com`
+4. Log in with your Toll Brothers sandbox credentials
+5. **Keep the browser open** while the script runs
 
 ### Step 3: Configure the Script
 
