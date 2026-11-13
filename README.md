@@ -229,8 +229,8 @@ This ensures realistic, varied test data.
 - ✓ Confirm you're on the Home Sales page
 - ✓ Check that you have permission to create leads
 
-### Phone validation keeps failing after 5 retries
-- ✓ Script automatically retries up to 5 times with different phone numbers
+### Phone validation keeps failing after 15 retries
+- ✓ Script automatically retries up to 15 times with different phone numbers
 - ✓ If all attempts fail, check Salesforce's phone format requirements
 - ✓ Verify the phone field validation rules haven't changed
 - ✓ Check console for the exact error message details
